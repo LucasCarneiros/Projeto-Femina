@@ -1,6 +1,6 @@
 # Projeto Femina
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LucasCarneiros/Projeto-Myd/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/LucasCarneiros/Projeto-Femina/blob/main/LICENSE) 
 
 # Sobre o projeto
 
